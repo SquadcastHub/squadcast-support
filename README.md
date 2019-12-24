@@ -30,6 +30,7 @@ Squadcast has been in use in production for over two years by hundreds of organi
  - apply [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) to your incident response process and build an active knowledge repository with [Squadcast Actions](https://support.squadcast.com/docs/what-are-squadcast-actions) and [Squadcast Runbooks](https://support.squadcast.com/docs/squadcast-runbooks)
  - operate a [transparent incident process](https://support.squadcast.com/docs/managing-all-users) across all your tech team and other key stakeholders
  - conduct [blameless post-mortems](https://support.squadcast.com/docs/postmortems) with a recommended compendium of post-mortem templates that suit different sorts of incident blast radius
+ - be responsive across the SRE core loop from both [iOS and Android](https://support.squadcast.com/docs/using-the-mobile-app) in addition to [desktop](https://app.squadcast.com) and CLI.
 
 
 and most of all - `KEEP CALM AND CARRY ON` !
@@ -47,6 +48,8 @@ and most of all - `KEEP CALM AND CARRY ON` !
 🌈 **Free Forever** With an Essential cloud plan that's free to use forever, avoid vendor bait-and-switch and upgrade only if you really need to.
 
 🔮 **SRE Friendly** Step into the future with Site Reliability Engineering and minimize toil
+
+📲 **Mobile Optimized** Where you are and what you are doing should not affect the SRE objectives of your team
 
 We have had several users who've switched from tools like PagerDuty, StatusPage, and other siloed incident response tools to adopt SRE with [Squadcast](https://www.squadcast.com).
 
