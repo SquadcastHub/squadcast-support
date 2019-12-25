@@ -7,9 +7,9 @@
 </p>
 </div>
 
-![Website](https://img.shields.io/website?down_color=investigating&down_message=orange&up_color=green&up_message=up&url=https%3A%2F%2Fapp.squadcast.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/squadcastHQ?label=%40squadcastHQ&style=social)
-
+[![Website](https://img.shields.io/website?down_color=investigating&down_message=orange&up_color=green&up_message=up&url=https%3A%2F%2Fapp.squadcast.com)](https://app.squadcast.com)
+[![Discord](https://img.shields.io/discord/659348454358908938?color=blueviolet&label=discord)](https://discord.gg/ztXYBCm)
+[![Twitter Follow](https://img.shields.io/twitter/follow/squadcastHQ?label=%40squadcastHQ&style=social)](https://twitter.com/intent/follow?screen_name=squadcastHQ)
 
 # Squadcast Support
 [Service Status](https://status.squadcast.com)
@@ -69,7 +69,7 @@ Squadcast is employed in critical use cases where the reliability of third-party
 If you're a user of [Squadcast Cloud or Squadcast Enterprise](https://www.squadcast.com/pricing), please use our in-app Intercom widget for any billing and technical support queries. You can also checkout our [Community](#community) resources for help on common technical issues.
 
 ### Community
-We provide exhaustive documentation on our [official support website](https://support.squadcast.com). We're also usually lurking on our official Discord server should that be of help. Our [blog](https://blog.squadcast.com) features relevant tutorials, long form reads, in-depth product feature tours and informative debriefs from leading Site Reliability Engineering community leaders who are driving the [#SRE](https://twitter.com/hashtag/sre) movement forward.
+We provide exhaustive documentation on our [official support website](https://support.squadcast.com). We're also usually available on our [official Discord server](https://discord.gg/ztXYBCm) should that be of help. Our [blog](https://blog.squadcast.com) features relevant tutorials, long form reads, in-depth product feature tours and informative debriefs from leading Site Reliability Engineering community leaders who are driving the [#SRE](https://twitter.com/hashtag/sre) movement forward.
 
 
 ### Product Roadmap
