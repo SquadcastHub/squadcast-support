@@ -1,4 +1,3 @@
-
 <br /><div align="center">
 <img style="max-width: 60%; max-height: 60%" class="center" alt="Squadcast" src="https://uploads-ssl.webflow.com/5c51758c58939b30a6fd3d73/5c519a89c482b5674e5ecf3d_Primary%20Logo%402x.svg" /><br />
 
@@ -14,10 +13,25 @@
 # Squadcast Support
 [Service Status](https://status.squadcast.com)
 
-
 <br /><div align="center">
 <img style="max-width: 70%; max-height: 70%" class="center" alt="Squadcast" src="https://files.readme.io/977cf97-squdcast_dashboard.svg" /><br />
 </div></br />
+
+<!-- toc -->
+
+- [How can Squadcast help me?](#how-can-squadcast-help-me)
+- [Highlights ✨](#highlights-%E2%9C%A8)
+- [Support Resources](#support-resources)
+  * [Getting Started](#getting-started)
+  * [Reporting Technical Issues](#reporting-technical-issues)
+  * [Responsible Disclosure of Security Vulnerabilities](#responsible-disclosure-of-security-vulnerabilities)
+  * [Account-specific Issues](#account-specific-issues)
+  * [Community](#community)
+  * [Product Roadmap](#product-roadmap)
+- [About Squadcast](#about-squadcast)
+- [Join our Reliability mission!](#join-our-reliability-mission)
+
+<!-- tocstop -->
 
 ## How can Squadcast help me?
 Squadcast has been in use in production for over two years by hundreds of organizations worldwide. Squadcast can help you practise [Site Reliability Engineering](https://landing.google.com/sre/interview/ben-treynor/) more effectively by 
@@ -69,7 +83,7 @@ Squadcast is employed in critical use cases where the reliability of third-party
 If you're a user of [Squadcast Cloud or Squadcast Enterprise](https://www.squadcast.com/pricing), please use our in-app Intercom widget for any billing and technical support queries. You can also checkout our [Community](#community) resources for help on common technical issues.
 
 ### Community
-We provide exhaustive documentation on our [official support website](https://support.squadcast.com). We're also usually available on our [official Discord server](https://discord.gg/ztXYBCm) should that be of help. Our [blog](https://blog.squadcast.com) features relevant tutorials, long form reads, in-depth product feature tours and informative debriefs from leading Site Reliability Engineering community leaders who are driving the [#SRE](https://twitter.com/hashtag/sre) movement forward.
+We provide exhaustive documentation on our [official support website](https://support.squadcast.com). We're also usually available on our [official Discord server](https://discord.gg/ztXYBCm) should that be of help. Our [blog](https://blog.squadcast.com) features relevant tutorials, long form reads, in-depth product feature tours and informative debriefs from leading Site Reliability Engineering community leaders who are driving the [#SRE](https://twitter.com/hashtag/sre) movement forward. We also curate learnings from our community through talks that are found [here](https://github.com/squadcastHQ/talks).
 
 
 ### Product Roadmap
