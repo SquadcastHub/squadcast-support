@@ -27,6 +27,7 @@ We've created this super simple checklist of all things you can do to set-up Squ
 - [Highlights ✨](#highlights-%E2%9C%A8)
 - [Support Resources](#support-resources)
   * [Getting Started](#getting-started)
+  * [Squadcast Set-up Checklist](https://support.squadcast.com/docs/getting-started#section-the-squadcast-checklist)
   * [Reporting Technical Issues](#reporting-technical-issues)
   * [Responsible Disclosure of Security Vulnerabilities](#responsible-disclosure-of-security-vulnerabilities)
   * [Account-specific Issues](#account-specific-issues)
