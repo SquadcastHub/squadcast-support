@@ -17,10 +17,6 @@
 <img style="max-width: 70%; max-height: 70%" class="center" alt="Squadcast" src="https://files.readme.io/977cf97-squdcast_dashboard.svg" /><br />
 </div></br />
 
-## Squadcast Set-up Checklist
-
-We've created this super simple checklist of all things you can do to set-up Squadcast. You can find this on our [Supprt Page](support.squadcast.com) under the [quick start guide](https://support.squadcast.com/docs/getting-started#section-the-squadcast-checklist).
-
 <!-- toc -->
 
 - [How can Squadcast help me?](#how-can-squadcast-help-me)
