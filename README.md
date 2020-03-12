@@ -84,15 +84,15 @@ Squadcast is employed in critical use cases where the reliability of third-party
 If you're a user of [Squadcast Cloud or Squadcast Enterprise](https://www.squadcast.com/pricing), please use our in-app Intercom widget for any billing and technical support queries. You can also checkout our [Community](#community) resources for help on common technical issues.
 
 ### Community
-We provide exhaustive documentation on our [official support website](https://support.squadcast.com). We're also usually available on our [official Discord server](https://discord.gg/ztXYBCm) should that be of help. Our [blog](https://blog.squadcast.com) features relevant tutorials, long form reads, in-depth product feature tours and informative debriefs from leading Site Reliability Engineering community leaders who are driving the [#SRE](https://twitter.com/hashtag/sre) movement forward. We also curate learnings from our community through talks that are found [here](https://github.com/squadcastHQ/talks).
+We provide exhaustive documentation on our [official support website](https://support.squadcast.com). Our [blog](https://blog.squadcast.com) features relevant tutorials, long form reads, in-depth product feature tours and informative debriefs from leading Site Reliability Engineering community leaders who are driving the [#SRE](https://twitter.com/hashtag/sre) movement forward.
 
 
 ### Product Roadmap
 
-In case your query is related to our product roadmap, you can check out our public roadmap for developers at [https://bit.ly/squadcast-roadmap](https://bit.ly/squadcast-roadmap). You can also view our [changelog](https://headwayapp.co/squadcast-updates) to track new features. This is available from within [the Squadcast app](https://app.squadcast.com) as well.
+In case your query is related to our product roadmap, you can check out our public roadmap for developers at [Squadcast Product Roadmap](https://bit.ly/squadcast-roadmap). You can also view our [changelog](https://headwayapp.co/squadcast-updates) to track new features. This is available from within [the Squadcast app](https://app.squadcast.com) as well.
 
 ## About Squadcast
-Squadcast is an end-to-end batteries-included incident response platform for practising Site Reliability Engineering in your tech team. We're a small team of thoughtful engineers who've made it our mission to really solve for improved reliability engineering practices. We integrate with a [wide variety of tools](https://github.com/squadcastHQ/awesome-sre-tools) in the software development lifecycle to help you practise SRE effectively.
+Squadcast is an end-to-end incident response platform for practising Site Reliability Engineering in your tech team. We're a small team of thoughtful engineers who've made it our mission to really solve for improved reliability engineering practices. We integrate with a [wide variety of tools](https://www.squadcast.com/integrations) in the software development lifecycle to help you practise SRE effectively.
 
 You can checkout more on [our website](https://www.squadcast.com/) and [get started](https://app.squadcast.com) for free.
 
