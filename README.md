@@ -75,7 +75,7 @@ Based on the kind and the immediate context of the issue, there may be particula
 We have an official [quickstart guide](https://support.squadcast.com/docs/getting-started) that should be helpful to get started quickly.
 
 ### Reporting Technical Issues
-Please report technical issues, bugs and feature requests directly on our [GitHub issue tracker](https://github.com/squadcastHQ/squadcast-app-support/issues). 
+Please report technical issues, bugs and feature requests directly on our [GitHub issue tracker](https://github.com/squadcastHub/squadcast-support/issues). 
 
 ### Responsible Disclosure of Security Vulnerabilities
 Squadcast is employed in critical use cases where the reliability of third-party services may be at stake. If you find a security vulnerability in Squadcast, please follow responsible disclosure norms based on the nature of the security issue you would like to report. Drop us a line at <security@squadcast.com>.
